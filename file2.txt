@@ -1,2 +1,3 @@
 file two for course two
 adding more content to the file
+fix the 1st and the 2nd bug
